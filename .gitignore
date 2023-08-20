@@ -1,0 +1,14 @@
+*
+
+!*/
+
+
+
+# track .giticnore
+!.gitignore
+
+
+
+# whitelists/
+!repositories.json
+!vectors/frontend.json
