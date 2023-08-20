@@ -3,12 +3,12 @@
   "npm/documentation": "",
   "npm/rfcs": "",
   "pnpm/pnpm": "",
-  "yarnpkg/yarn": "",
+  "postcss/postcss",
+  "sass/dart-sass": "",
+  "sass/libsass": "",
+  "sass/node-sass": "",
+  "sass/sass": "",
   "yarnpkg/berry": "",
   "yarnpkg/rfcs": "",
-  "sass/sass": "",
-  "sass/node-sass": "",
-  "sass/libsass": "",
-  "sass/dart-sass": "",
-  "postcss/postcss"
+  "yarnpkg/yarn": ""
 }
