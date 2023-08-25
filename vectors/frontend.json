@@ -1,4 +1,6 @@
 {
+  "microsoft/fluentui": "",
+  "microsoft/monaco-editor": "",
   "npm/cli": "",
   "npm/documentation": "",
   "npm/rfcs": "",
