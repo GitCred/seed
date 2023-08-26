@@ -1,4 +1,6 @@
 {
   "https://github.com/microsoft/vcpkg": "",
-  "microsoft/WSL2-Linux-Kernel": ""
+  "microsoft/windows-rs": "",
+  "microsoft/WSL2-Linux-Kernel": "",
+  "microsoft/STL": ""
 }

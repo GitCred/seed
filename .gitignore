@@ -18,6 +18,7 @@
 !vectors/frontend.json
 !vectors/linux.json
 !vectors/llms.json
+!vectors/rust.json
 !vectors/vector-databases.json
 !vectors/windows.json
 
