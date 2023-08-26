@@ -1,9 +1,4 @@
 {
-  "": "",
-  "": "",
-  "": "",
-  "": "",
-  "": "",
   "agalwood/Motrix": "",
   "airbnb/javascript": "",
   "allinurl/goaccess": "",
@@ -84,6 +79,7 @@
   "meilisearch/meilisearch-js": "",
   "meilisearch/meilisearch-php": "",
   "metabase/metabase": "",
+  "microsoft/Bringing-Old-Photos-Back-to-Life": "",
   "microsoft/CNTK": "",
   "microsoft/Data-Science-For-Beginners": "",
   "microsoft/DeepSpeed": "",
@@ -91,10 +87,12 @@
   "microsoft/JARVIS": "",
   "microsoft/ML-For-Beginners": "",
   "microsoft/monaco-editor": "",
+  "microsoft/nni": "",
   "microsoft/onnxruntime": "",
   "microsoft/playwright": "",
   "microsoft/playwright-python": "",
   "microsoft/PowerToys": "",
+  "microsoft/qlib": "",
   "microsoft/react-native-windows": "",
   "microsoft/TaskMatrix": "",
   "microsoft/terminal": "",
@@ -185,5 +183,11 @@
   "yarnpkg/berry": "",
   "yarnpkg/rfcs": "",
   "yarnpkg/yarn": "",
-  "zulip/zulip": ""
+  "zulip/zulip": "",
+  "microsoft/semantic-kernel": "",
+  "microsoft/pyright": "",
+  "microsoft/language-server-protocol": "",
+  "microsoft/WSL2-Linux-Kernel": "",
+  "microsoft/azuredatastudio": "",
+  "microsoft/mimalloc": ""
 }

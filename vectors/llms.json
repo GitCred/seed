@@ -1,0 +1,13 @@
+{
+  "openai/openai-cookbook": "",
+  "huggingface/transformers": "",
+  "huggingface/pytorch-image-models": "",
+  "huggingface/diffusers": "",
+  "huggingface/datasets": "",
+  "salesforce/ctrl": "",
+  "microsoft/DeepSpeed": "",
+  "microsoft/ML-For-Beginners": "",
+  "microsoft/fluentui": "",
+  "microsoft/JARVIS": "",
+  "microsoft/TaskMatrix": ""
+}

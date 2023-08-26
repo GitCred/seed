@@ -10,5 +10,15 @@
 
 
 # whitelists/
-!repositories.json
+!vectors/artificial-intelligence.json
+!vectors/azure.json
+!vectors/c.json
+!vectors/c++.json
+!vectors/data-science-courses.json
 !vectors/frontend.json
+!vectors/linux.json
+!vectors/llms.json
+!vectors/vector-databases.json
+!vectors/windows.json
+
+!repositories.json
