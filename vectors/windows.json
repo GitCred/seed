@@ -1,6 +1,6 @@
 {
+  "microsoft/STL": "",
   "microsoft/vcpkg": "",
   "microsoft/windows-rs": "",
-  "microsoft/WSL2-Linux-Kernel": "",
-  "microsoft/STL": ""
+  "microsoft/WSL2-Linux-Kernel": ""
 }

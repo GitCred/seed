@@ -6,6 +6,6 @@
   "nmslib/nmslib": "",
   "spotify/annoy": "",
   "vespa-engine/vespa": "",
-  "yahoojapan/NGT": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data",
-  "wip": ""
+  "wip": "",
+  "yahoojapan/NGT": "Nearest Neighbor Search with Neighborhood Graph and Tree for High-dimensional Data"
 }
