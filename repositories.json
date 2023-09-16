@@ -170,6 +170,7 @@
   "sqlitebrowser/sqlitebrowser": "",
   "sst/sst": "",
   "standard/standard": "",
+  "StanGirard/quivr": "",
   "strapi/strapi": "",
   "supabase/supabase": "",
   "surrealdb/surrealdb": "",
@@ -194,5 +195,6 @@
   "yarnpkg/berry": "",
   "yarnpkg/rfcs": "",
   "yarnpkg/yarn": "",
+  "ziglang/zig": "",
   "zulip/zulip": ""
 }
