@@ -28,7 +28,6 @@
   "apache/airflow": "",
   "apache/arrow": "",
   "apache/avro": "",
-  "apache/cassandra-python-driver": "",
   "apache/echarts": "",
   "apache/kafka-python": "",
   "apache/mxnet": "",

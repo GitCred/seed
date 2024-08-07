@@ -1,3 +1,22 @@
 {
-  "microsoft/azuredatastudio": ""
+  "Azure/azure-sdk-for-js": "",
+  "Azure/azure-sdk-for-java": "",
+  "Azure/azure-sdk-for-go": "",
+  "Azure/azure-sdk-for-net": "",
+  "Azure/azure-cli": "",
+  "Azure/azure-powershell": "",
+  "Azure/azure-functions-core-tools": "",
+  "Azure/azure-cosmos-dotnet-v3": "",
+  "Azure/azure-cosmos-js": "",
+  "Azure/azure-cosmos-python": "",
+  "Azure/azure-cosmos-java": "",
+  "Azure/azure-iot-sdk-python": "",
+  "Azure/azure-iot-sdk-node": "",
+  "Azure/azure-iot-sdk-java": "",
+  "Azure/azure-iot-sdk-c": "",
+  "Azure/azure-storage-python": "",
+  "Azure/azure-storage-js": "",
+  "Azure/azure-storage-java": "",
+  "Azure/azure-storage-cpp": "",
+  "Azure/azure-event-hubs-python": ""
 }
